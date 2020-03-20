@@ -1,0 +1,43 @@
+.img{
+    width: 50%;
+}
+.navbar-nav{
+    width: 80%;
+    padding-left: 35%;
+}
+.nav-item{
+    margin-right: 10%;
+}
+.fa{
+    padding-top: 10px;
+    font-size: 18px;
+}
+h2{
+    font-family: Montserrat;
+font-size: 48px;
+line-height: 52px;
+font-weight: 200;
+}
+.loginForm{
+    margin-top: 10%;
+}
+form{
+    width: 50%;
+    margin: 0 auto;
+}
+input{
+    background-color: rgba(0,0,0,0.04) !important;
+    border-radius: 4px !important;
+    border: 2px solid rgba(0,0,0,0) !important;
+    height: 6vh;
+}
+.required{
+    color: #25bdce !important;
+}
+.btn{
+    background-color: #25bdce !important;
+    width: 100%;
+    border: 1px solid #25bdce !important;
+    -webkit-border-radius: 200px !important;
+    margin-top: 2%;
+}

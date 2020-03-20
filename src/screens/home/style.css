@@ -1,0 +1,155 @@
+.img{
+    width: 50%;
+}
+.navbar-nav{
+    width: 80%;
+    padding-left: 35%;
+}
+.nav-item{
+    margin-right: 10%;
+}
+.fa{
+    padding-top: 10px;
+    font-size: 18px;
+}
+.row{
+    width: 100%;
+}
+.bg{
+    background-image: url('./istock.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 80vh;
+    padding-top: 15%;
+}
+.head{
+    color: white;
+    font-family: Montserrat;
+    font-size: 60px;
+    line-height: 64px;
+    font-weight: 400;
+}
+.para{
+    font-family: Montserrat;
+    font-size: 24px;
+    line-height: 28px;
+    font-weight: 300;
+    color: white;
+    width: 80%;
+    text-align: center;
+    padding-left: 25%;
+}
+.but{
+    background-color: #25bdce !important;
+    border-radius: 200px;
+    width: 10%;
+    padding: 8px;
+    color: white;
+    margin-left: 45%;
+    margin-top: 5%;
+}
+.head1{
+    font-family: Montserrat;
+    font-size: 48px;
+    line-height: 52px;
+    font-weight: 200;
+    padding-top: 3%;
+}
+.spTxt{
+    color: #bbbbbb;
+}
+.head2{
+    font-family: Montserrat;
+    font-size: 24px;
+    line-height: 28px;
+    font-weight: 300;
+    text-align: center;
+}
+h5{
+    font-family: Montserrat;
+    font-size: 24px;
+    line-height: 28px;
+    font-weight: 300;
+}
+.icon{
+    margin-left: 40%;
+}
+.mar{
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 5%;
+}
+.grBg{
+    background-color: #F2F2F2;
+    padding: 10%;
+}
+.greyText{
+    color: #676767;
+}
+.bg1{
+    background-image: url('./admin-ajax.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    height: 60vh;
+}
+h3{
+    font-family: Montserrat;
+font-size: 32px;
+line-height: 36px;
+font-weight: 400;
+}
+.con{
+    padding: 5%;
+    color: rgba(0,0,0,0.5);
+}
+.black-text{
+    color: black !important
+}
+.blue-text{
+    color: #25BDCE
+}
+.icon1{
+    width: 100%;
+    margin-top: 8%;
+    margin-left: 4%;
+}
+h4{
+    font-family: Montserrat;
+font-size: 28px;
+line-height: 32px;
+font-weight: 400;
+}
+.atDiv{
+    margin-top: 10%;
+    color: rgba(0,0,0,0.5);
+    height: 25vh;
+}
+.oueDiv{
+    margin-top: 10%;
+    color: rgba(0,0,0,0.5);
+    height: 25vh;
+}
+.gvDiv{
+    margin-top: 10%;
+    color: rgba(0,0,0,0.5);
+    height: 25vh;
+}
+footer{
+    background-color: #252525;
+    height: 40vh;
+    padding: 5%;
+}
+footer h4{
+    color: #777;
+font-size: 14px;
+font-family: 'Open Sans';
+font-weight: 600;
+}
+footer p{
+    color: #ccc;
+}
+.map{
+    width: 100%;
+    height: 30vh;
+}

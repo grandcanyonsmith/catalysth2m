@@ -1,0 +1,128 @@
+.img{
+    width: 50%;
+}
+.navbar-nav{
+    width: 80%;
+    padding-left: 35%;
+}
+.nav-item{
+    margin-right: 10%;
+}
+.fa{
+    padding-top: 10px;
+    font-size: 18px;
+}
+.loginForm{
+    margin-top: 3%;
+    margin-left: 3%;
+}
+.img1{
+    width: 100%;
+    margin-bottom: 2%;
+    background-image: url('./showcase1.jpg');
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+.img2{
+    width: 100%;
+    margin-bottom: 2%;
+    background-image: url('./showcase2.jpg');
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+.img3{
+    width: 100%;
+    margin-bottom: 2%;
+    background-image: url('./showcase3.jpg');
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+.img4{
+    width: 100%;
+    margin-bottom: 2%;
+    background-image: url('./showcase4.jpg');
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+.img5{
+    width: 100%;
+    margin-bottom: 2%;
+    background-image: url('./showcase5.jpg');
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+.img6{
+    width: 100%;
+    margin-bottom: 2%;
+    background-image: url('./showcase6.jpg');
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+.img7{
+    width: 100%;
+    margin-bottom: 2%;
+    background-image: url('./showcase7.jpg');
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+.img8{
+    width: 100%;
+    margin-bottom: 2%;
+    background-image: url('./showcase8.jpg');
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+.img9{
+    width: 100%;
+    margin-bottom: 2%;
+    background-image: url('./showcase9.jpg');
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+.img10{
+    width: 100%;
+    margin-bottom: 2%;
+    background-image: url('./showcase10.jpg');
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+.img11{
+    width: 100%;
+    margin-bottom: 2%;
+    background-image: url('./showcase11.jpg');
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
